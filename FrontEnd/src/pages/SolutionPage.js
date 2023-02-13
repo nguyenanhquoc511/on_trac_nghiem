@@ -135,7 +135,7 @@ const SolutionPage = () => {
                                     <p className="answer-key">
                                       Đáp án đúng: <span>{state.trueAnswers[index]}</span>
                                     </p>
-                                    <TextArea
+                                    {/* <TextArea
                                       rows={3}
                                       style={{
                                         width: '100%',
@@ -144,7 +144,7 @@ const SolutionPage = () => {
                                         fontSize: '15px'
                                       }}
                                       value={state.description[index]}
-                                    />
+                                    /> */}
                                   </>
                                 );
                               }
