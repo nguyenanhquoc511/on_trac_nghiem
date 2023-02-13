@@ -1,0 +1,7 @@
+.ant-table-cell{
+    max-width: 500px;
+}
+
+section .ant-layout-has-sider {
+    padding: 2rem;
+}
