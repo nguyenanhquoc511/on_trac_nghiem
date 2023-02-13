@@ -17,7 +17,8 @@ const Result = ({
   exam,
   params,
   examSeconds,
-  examMinutes
+  examMinutes,
+  questions,
 }) => {
   const percentage = Math.floor((totalCorrectAnswer / correctAnswer.length) * 100);
   let bandScore = String((totalCorrectAnswer / correctAnswer.length) * 9).split('.');
@@ -68,6 +69,7 @@ const Result = ({
             <div key={i}>
               <div>
                 <span className="answer-number">{i + 1} </span>{' '}
+                <span className="">{questions[i].content[0]} </span>{' '}
                 <span className="correct-answer">{ans}</span> :{' '}
                 <span className="user-answer">{userAnswer[i] || 'Không trả lời'} </span>
                 <span

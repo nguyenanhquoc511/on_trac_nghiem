@@ -69,6 +69,22 @@
 // };
 
 // export default reading_detail_reducer;
+function randomize(values) {
+  let index = values.length,
+    randomIndex;
+
+  // While there remain elements to shuffle.
+  while (index != 0) {
+    // Pick a remaining element.
+    randomIndex = Math.floor(Math.random() * index);
+    index--;
+
+    // And swap it with the current element.
+    [values[index], values[randomIndex]] = [values[randomIndex], values[index]];
+  }
+
+  return values;
+}
 
 const reading_detail_reducer = (state, action) => {
   if (action.type === 'GET_PRODUCTS_BEGIN') {
@@ -82,7 +98,15 @@ const reading_detail_reducer = (state, action) => {
     return {
       ...state,
       isLoading: false,
-      data: action.payload,
+
+      // not randomize question
+      // data: action.payload,
+
+      // randomize question
+      data: {
+        ...action.payload,
+        questions: randomize(action.payload.questions)
+      },
       userAnswer: [],
       correctAnswer: action.payload.questions.map((a) => a.trueAnswer),
       totalAnswer: action.payload.questions.length,
@@ -109,8 +133,7 @@ const reading_detail_reducer = (state, action) => {
     for (let i = 0; i < tempState.totalAnswer; i++) {
       if (tempState.userAnswer[i]) {
         if (
-          tempState.correctAnswer[i].toLowerCase() ===
-          tempState.userAnswer[i].toLocaleLowerCase()
+          tempState.correctAnswer[i].toLowerCase() === tempState.userAnswer[i].toLocaleLowerCase()
         ) {
           tempState.totalCorrectAnswer += 1;
         }
