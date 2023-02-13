@@ -838,7 +838,832 @@ export const fakePracticeData = {
       __v: 0,
       _id: '639758983f898fb89263c462',
       type: 'word'
-    }
+    },
+    {
+      category: {
+        createdAt: '2022-09-27T06:59:04.376Z',
+        name: 'Reading',
+        updatedAt: '2022-09-27T06:59:04.376Z',
+        __v: 0,
+        _id: '63329f38623618c13355482f'
+      },
+      content: ['Trắc nghiệm architech 2'],
+      createdAt: '2022-12-12T16:36:40.770Z',
+      description: 'Trắc nghiệm architech 2',
+      image: {
+        name: 'http://localhost:3000/1670863000705-T2S3_0.png'
+      },
+      questions: [
+        {
+          answer: [
+            'provide an environment in which software operates.',
+            'provide requirements and constraints to which software architecture must adhere.',
+            'are likely to be associated with one or more software architectures.',
+            'all of the above',
+          ],
+          content: ['Enterprise and system architecture...', null], /* cau hoi */
+          createdAt: '2022-12-12T16:20:08.570Z',
+          description:
+            'From the keywords The Celestron SkyScout, we use scanning skill to find it. In the paragraph 2, the information given is “For the truly celestially challenged, if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using illuminated arrows in the viewfinder”. So A must be the right option.\n\nTherefore, the answer for Q27 is A.',
+          explaination:
+            'if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using',
+          title: 'Rise of the Robots',
+          trueAnswer: 'all of the above', /* cau tra loi dung */
+          type: 'multiplechoice',
+          updatedAt: '2022-12-12T16:20:08.570Z',
+          __v: 0,
+          _id: '639754b83f898fb89263c435'
+        },
+        {
+          answer: [
+            'Hardware elements of the system',
+            'Human elements of the system',
+            'Software elements of the system',
+            'All of the above',
+          ],
+          content: ['Which of the following is a concern of software architecture?', null], /* cau hoi */
+          createdAt: '2022-12-12T16:20:08.570Z',
+          description:
+            'From the keywords The Celestron SkyScout, we use scanning skill to find it. In the paragraph 2, the information given is “For the truly celestially challenged, if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using illuminated arrows in the viewfinder”. So A must be the right option.\n\nTherefore, the answer for Q27 is A.',
+          explaination:
+            'if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using',
+          title: 'Rise of the Robots',
+          trueAnswer: 'Software elements of the system', /* cau tra loi dung */
+          type: 'multiplechoice',
+          updatedAt: '2022-12-12T16:20:08.570Z',
+          __v: 0,
+          _id: '639754b83f898fb89263c435'
+        },
+        {
+          answer: [
+            'quality attributes of those elements.',
+            'functions and services provided by those elements',
+            'resources provided and used by those elements',
+            'All of the above.',
+          ],
+          content: ['The ? externally visible properties? of a software architecture\'s  elements refer to which of the following:', null], /* cau hoi */
+          createdAt: '2022-12-12T16:20:08.570Z',
+          description:
+            'From the keywords The Celestron SkyScout, we use scanning skill to find it. In the paragraph 2, the information given is “For the truly celestially challenged, if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using illuminated arrows in the viewfinder”. So A must be the right option.\n\nTherefore, the answer for Q27 is A.',
+          explaination:
+            'if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using',
+          title: 'Rise of the Robots',
+          trueAnswer: 'All of the above.', /* cau tra loi dung */
+          type: 'multiplechoice',
+          updatedAt: '2022-12-12T16:20:08.570Z',
+          __v: 0,
+          _id: '639754b83f898fb89263c435'
+        },
+        {
+          answer: [
+            'Every system has no architecture, explicit or implicit.',
+            'Every system has an architecture, explicit or implicit.',
+            'An architecture is composed of a fixed set of candidate structures',
+            'A software architecture is the planned implementation of a  system.',
+          ],
+          content: ['Which of the following statement is true about software architecture?', null], /* cau hoi */
+          createdAt: '2022-12-12T16:20:08.570Z',
+          description:
+            'From the keywords The Celestron SkyScout, we use scanning skill to find it. In the paragraph 2, the information given is “For the truly celestially challenged, if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using illuminated arrows in the viewfinder”. So A must be the right option.\n\nTherefore, the answer for Q27 is A.',
+          explaination:
+            'if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using',
+          title: 'Rise of the Robots',
+          trueAnswer: 'Every system has an architecture, explicit or implicit.', /* cau tra loi dung */
+          type: 'multiplechoice',
+          updatedAt: '2022-12-12T16:20:08.570Z',
+          __v: 0,
+          _id: '639754b83f898fb89263c435'
+        },
+        {
+          answer: [
+            'past experience in designing service-oriented architectures. ',
+            'personal goals and objectives.',
+            'knowledge.',
+            'all of the above',
+          ],
+          content: ['The design decision made by a software architect might be influenced by his or her...', null], /* cau hoi */
+          createdAt: '2022-12-12T16:20:08.570Z',
+          description:
+            'From the keywords The Celestron SkyScout, we use scanning skill to find it. In the paragraph 2, the information given is “For the truly celestially challenged, if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using illuminated arrows in the viewfinder”. So A must be the right option.\n\nTherefore, the answer for Q27 is A.',
+          explaination:
+            'if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using',
+          title: 'Rise of the Robots',
+          trueAnswer: 'all of the above', /* cau tra loi dung */
+          type: 'multiplechoice',
+          updatedAt: '2022-12-12T16:20:08.570Z',
+          __v: 0,
+          _id: '639754b83f898fb89263c435'
+        },
+        {
+          answer: [
+            'industry standards.',
+            'Stakeholders.',
+            'functional requirements.',
+            'architectural view.',
+          ],
+          content: ['Quality attributes, business constraints, and functional requirements are derived from...', null], /* cau hoi */
+          createdAt: '2022-12-12T16:20:08.570Z',
+          description:
+            'From the keywords The Celestron SkyScout, we use scanning skill to find it. In the paragraph 2, the information given is “For the truly celestially challenged, if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using illuminated arrows in the viewfinder”. So A must be the right option.\n\nTherefore, the answer for Q27 is A.',
+          explaination:
+            'if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using',
+          title: 'Rise of the Robots',
+          trueAnswer: 'Stakeholders.', /* cau tra loi dung */
+          type: 'multiplechoice',
+          updatedAt: '2022-12-12T16:20:08.570Z',
+          __v: 0,
+          _id: '639754b83f898fb89263c435'
+        },
+        {
+          answer: [
+            'the relationship between different qualities of a system',
+            'a list of all quality attributes relevant to some part of a  system. ',
+            'a short description of how a system should respond to some stimulus.',
+            'a short description of how a user will interact with some part of a system.',
+          ],
+          content: ['What is a quality attribute scenario?', null], /* cau hoi */
+          createdAt: '2022-12-12T16:20:08.570Z',
+          description:
+            'From the keywords The Celestron SkyScout, we use scanning skill to find it. In the paragraph 2, the information given is “For the truly celestially challenged, if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using illuminated arrows in the viewfinder”. So A must be the right option.\n\nTherefore, the answer for Q27 is A.',
+          explaination:
+            'if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using',
+          title: 'Rise of the Robots',
+          trueAnswer: 'a short description of how a system should respond to some stimulus.', /* cau tra loi dung */
+          type: 'multiplechoice',
+          updatedAt: '2022-12-12T16:20:08.570Z',
+          __v: 0,
+          _id: '639754b83f898fb89263c435'
+        },
+        {
+          answer: [
+            'Artifacts',
+            'Response measure',
+            'Request measure',
+            'Source of Stimulus',
+          ],
+          content: ['Which of the following is NOT part of a quality attribute scenario?', null], /* cau hoi */
+          createdAt: '2022-12-12T16:20:08.570Z',
+          description:
+            'From the keywords The Celestron SkyScout, we use scanning skill to find it. In the paragraph 2, the information given is “For the truly celestially challenged, if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using illuminated arrows in the viewfinder”. So A must be the right option.\n\nTherefore, the answer for Q27 is A.',
+          explaination:
+            'if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using',
+          title: 'Rise of the Robots',
+          trueAnswer: 'Request measure', /* cau tra loi dung */
+          type: 'multiplechoice',
+          updatedAt: '2022-12-12T16:20:08.570Z',
+          __v: 0,
+          _id: '639754b83f898fb89263c435'
+        },
+        {
+          answer: [
+            'Allocation views',
+            'Module views',
+            'Component-and-connector views',
+            'Class diagrams',
+          ],
+          content: ['Which type of architectural view shows the data flow in the system?', null], /* cau hoi */
+          createdAt: '2022-12-12T16:20:08.570Z',
+          description:
+            'From the keywords The Celestron SkyScout, we use scanning skill to find it. In the paragraph 2, the information given is “For the truly celestially challenged, if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using illuminated arrows in the viewfinder”. So A must be the right option.\n\nTherefore, the answer for Q27 is A.',
+          explaination:
+            'if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using',
+          title: 'Rise of the Robots',
+          trueAnswer: 'Component-and-connector views', /* cau tra loi dung */
+          type: 'multiplechoice',
+          updatedAt: '2022-12-12T16:20:08.570Z',
+          __v: 0,
+          _id: '639754b83f898fb89263c435'
+        },
+        {
+          answer: [
+            'Class diagrams',
+            'Module views ',
+            'C&C views',
+            'Allocation views',
+          ],
+          content: ['Which type of architectural view shows how software and non-software elements (PCs, sensors...) are related within a system?', null], /* cau hoi */
+          createdAt: '2022-12-12T16:20:08.570Z',
+          description:
+            'From the keywords The Celestron SkyScout, we use scanning skill to find it. In the paragraph 2, the information given is “For the truly celestially challenged, if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using illuminated arrows in the viewfinder”. So A must be the right option.\n\nTherefore, the answer for Q27 is A.',
+          explaination:
+            'if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using',
+          title: 'Rise of the Robots',
+          trueAnswer: 'Allocation views', /* cau tra loi dung */
+          type: 'multiplechoice',
+          updatedAt: '2022-12-12T16:20:08.570Z',
+          __v: 0,
+          _id: '639754b83f898fb89263c435'
+        },
+        {
+          answer: [
+            'Enhanced system documentation',
+            'Sets of scenarios for future use ',
+            'Sets of ranked risks or issues',
+            'All of above',
+          ],
+          content: ['Which of the following is correct about typical output from an architectural evaluation?', null], /* cau hoi */
+          createdAt: '2022-12-12T16:20:08.570Z',
+          description:
+            'From the keywords The Celestron SkyScout, we use scanning skill to find it. In the paragraph 2, the information given is “For the truly celestially challenged, if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using illuminated arrows in the viewfinder”. So A must be the right option.\n\nTherefore, the answer for Q27 is A.',
+          explaination:
+            'if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using',
+          title: 'Rise of the Robots',
+          trueAnswer: 'All of above', /* cau tra loi dung */
+          type: 'multiplechoice',
+          updatedAt: '2022-12-12T16:20:08.570Z',
+          __v: 0,
+          _id: '639754b83f898fb89263c435'
+        },
+        {
+          answer: [
+            'discover the right architecture for a system.',
+            'discover risks, non-risks, sensitive points, and trade-off  quality attributes',
+            'provide precise analyses.',
+            'compare competing architectural designs for a system',
+          ],
+          content: ['What is the purpose of the ATAM?', null], /* cau hoi */
+          createdAt: '2022-12-12T16:20:08.570Z',
+          description:
+            'From the keywords The Celestron SkyScout, we use scanning skill to find it. In the paragraph 2, the information given is “For the truly celestially challenged, if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using illuminated arrows in the viewfinder”. So A must be the right option.\n\nTherefore, the answer for Q27 is A.',
+          explaination:
+            'if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using',
+          title: 'Rise of the Robots',
+          trueAnswer: 'discover risks, non-risks, sensitive points, and trade-off  quality attributes', /* cau tra loi dung */
+          type: 'multiplechoice',
+          updatedAt: '2022-12-12T16:20:08.570Z',
+          __v: 0,
+          _id: '639754b83f898fb89263c435'
+        },
+        {
+          answer: [
+            'non-behavioral aspects of the system',
+            'security',
+            'performance',
+            'all of the above',
+          ],
+          content: ['Quality Attributes of a system focus on', null], /* cau hoi */
+          createdAt: '2022-12-12T16:20:08.570Z',
+          description:
+            'From the keywords The Celestron SkyScout, we use scanning skill to find it. In the paragraph 2, the information given is “For the truly celestially challenged, if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using illuminated arrows in the viewfinder”. So A must be the right option.\n\nTherefore, the answer for Q27 is A.',
+          explaination:
+            'if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using',
+          title: 'Rise of the Robots',
+          trueAnswer: 'all of the above', /* cau tra loi dung */
+          type: 'multiplechoice',
+          updatedAt: '2022-12-12T16:20:08.570Z',
+          __v: 0,
+          _id: '639754b83f898fb89263c435'
+        },
+        {
+          answer: [
+            'Availability',
+            'Security',
+            'Performance',
+            'Modifiability',
+          ],
+          content: ['Which does the Quality attribute that refers to: Periodic event,  Overload mode, process event, latency?', null], /* cau hoi */
+          createdAt: '2022-12-12T16:20:08.570Z',
+          description:
+            'From the keywords The Celestron SkyScout, we use scanning skill to find it. In the paragraph 2, the information given is “For the truly celestially challenged, if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using illuminated arrows in the viewfinder”. So A must be the right option.\n\nTherefore, the answer for Q27 is A.',
+          explaination:
+            'if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using',
+          title: 'Rise of the Robots',
+          trueAnswer: 'Performance', /* cau tra loi dung */
+          type: 'multiplechoice',
+          updatedAt: '2022-12-12T16:20:08.570Z',
+          __v: 0,
+          _id: '639754b83f898fb89263c435'
+        },
+        {
+          answer: [
+            'They simplify systems maintenance and enhance its reuseThey interact with the environment in limited ways',
+            'They interact with the environment in limited ways',
+            'Interactive applications are encouraged by the style',
+            'None of the mentioned',
+          ],
+          content: ['What is the advantage of pipe &amp;amp; filters?', null], /* cau hoi */
+          createdAt: '2022-12-12T16:20:08.570Z',
+          description:
+            'From the keywords The Celestron SkyScout, we use scanning skill to find it. In the paragraph 2, the information given is “For the truly celestially challenged, if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using illuminated arrows in the viewfinder”. So A must be the right option.\n\nTherefore, the answer for Q27 is A.',
+          explaination:
+            'if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using',
+          title: 'Rise of the Robots',
+          trueAnswer: 'They interact with the environment in limited ways', /* cau tra loi dung */
+          type: 'multiplechoice',
+          updatedAt: '2022-12-12T16:20:08.570Z',
+          __v: 0,
+          _id: '639754b83f898fb89263c435'
+        },
+        {
+          answer: [
+            'Fault recovery',
+            'Voting',
+            'Rollback',
+            'Introduce concurrency',
+          ],
+          content: ['Which is not an Availability tactic?', null], /* cau hoi */
+          createdAt: '2022-12-12T16:20:08.570Z',
+          description:
+            'From the keywords The Celestron SkyScout, we use scanning skill to find it. In the paragraph 2, the information given is “For the truly celestially challenged, if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using illuminated arrows in the viewfinder”. So A must be the right option.\n\nTherefore, the answer for Q27 is A.',
+          explaination:
+            'if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using',
+          title: 'Rise of the Robots',
+          trueAnswer: 'Introduce concurrency', /* cau tra loi dung */
+          type: 'multiplechoice',
+          updatedAt: '2022-12-12T16:20:08.570Z',
+          __v: 0,
+          _id: '639754b83f898fb89263c435'
+        },
+        {
+          answer: [
+            'Fault detection',
+            'Prevent faults ',
+            'Recovery from faults',
+            'All of above',
+          ],
+          content: ['Which are the tactics for Availability Attributes?', null], /* cau hoi */
+          createdAt: '2022-12-12T16:20:08.570Z',
+          description:
+            'From the keywords The Celestron SkyScout, we use scanning skill to find it. In the paragraph 2, the information given is “For the truly celestially challenged, if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using illuminated arrows in the viewfinder”. So A must be the right option.\n\nTherefore, the answer for Q27 is A.',
+          explaination:
+            'if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using',
+          title: 'Rise of the Robots',
+          trueAnswer: 'All of above', /* cau tra loi dung */
+          type: 'multiplechoice',
+          updatedAt: '2022-12-12T16:20:08.570Z',
+          __v: 0,
+          _id: '639754b83f898fb89263c435'
+        },
+        {
+          answer: [
+            'Write from the point of view of the stakeholder.',
+            'Avoid unnecessary repetition.',
+            'Use the ambiguous drawings.',
+            'Use a standard organization.',
+          ],
+          content: ['Which is not a principle of software architecture documentation?', null], /* cau hoi */
+          createdAt: '2022-12-12T16:20:08.570Z',
+          description:
+            'From the keywords The Celestron SkyScout, we use scanning skill to find it. In the paragraph 2, the information given is “For the truly celestially challenged, if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using illuminated arrows in the viewfinder”. So A must be the right option.\n\nTherefore, the answer for Q27 is A.',
+          explaination:
+            'if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using',
+          title: 'Rise of the Robots',
+          trueAnswer: 'Use the ambiguous drawings.', /* cau tra loi dung */
+          type: 'multiplechoice',
+          updatedAt: '2022-12-12T16:20:08.570Z',
+          __v: 0,
+          _id: '639754b83f898fb89263c435'
+        },
+        {
+          answer: [
+            '8',
+            '9',
+            '7',
+            '6',
+          ],
+          content: ['How many stages of the ACDM cycle?', null], /* cau hoi */
+          createdAt: '2022-12-12T16:20:08.570Z',
+          description:
+            'From the keywords The Celestron SkyScout, we use scanning skill to find it. In the paragraph 2, the information given is “For the truly celestially challenged, if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using illuminated arrows in the viewfinder”. So A must be the right option.\n\nTherefore, the answer for Q27 is A.',
+          explaination:
+            'if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using',
+          title: 'Rise of the Robots',
+          trueAnswer: '8', /* cau tra loi dung */
+          type: 'multiplechoice',
+          updatedAt: '2022-12-12T16:20:08.570Z',
+          __v: 0,
+          _id: '639754b83f898fb89263c435'
+        },
+        {
+          answer: [
+            'Present business drivers',
+            'Present architecture',
+            'Identify architectural approaches',
+            'Generate Business constraints tree',
+          ],
+          content: ['Which is not the step of ATAM?', null], /* cau hoi */
+          createdAt: '2022-12-12T16:20:08.570Z',
+          description:
+            'From the keywords The Celestron SkyScout, we use scanning skill to find it. In the paragraph 2, the information given is “For the truly celestially challenged, if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using illuminated arrows in the viewfinder”. So A must be the right option.\n\nTherefore, the answer for Q27 is A.',
+          explaination:
+            'if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using',
+          title: 'Rise of the Robots',
+          trueAnswer: 'Generate Business constraints tree', /* cau tra loi dung */
+          type: 'multiplechoice',
+          updatedAt: '2022-12-12T16:20:08.570Z',
+          __v: 0,
+          _id: '639754b83f898fb89263c435'
+        },
+        {
+          answer: [
+            'Good program must have certain characteristics at delivery and  must be maintainable during time',
+            'A good program at delivery must satisfy its requirements',
+            'A good program must conform to its design constraints',
+            'All of the mentioned',
+          ],
+          content: ['What is true about good programs?', null], /* cau hoi */
+          createdAt: '2022-12-12T16:20:08.570Z',
+          description:
+            'From the keywords The Celestron SkyScout, we use scanning skill to find it. In the paragraph 2, the information given is “For the truly celestially challenged, if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using illuminated arrows in the viewfinder”. So A must be the right option.\n\nTherefore, the answer for Q27 is A.',
+          explaination:
+            'if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using',
+          title: 'Rise of the Robots',
+          trueAnswer: 'All of the mentioned', /* cau tra loi dung */
+          type: 'multiplechoice',
+          updatedAt: '2022-12-12T16:20:08.570Z',
+          __v: 0,
+          _id: '639754b83f898fb89263c435'
+        },
+        {
+          answer: [
+            'The input of the architectural design process is SAD',
+            'The output of the architectural design process is SRS',
+            'The input of the architectural design process is SRS',
+            'None of the mentioned',
+          ],
+          content: ['Which of the following is true?', null], /* cau hoi */
+          createdAt: '2022-12-12T16:20:08.570Z',
+          description:
+            'From the keywords The Celestron SkyScout, we use scanning skill to find it. In the paragraph 2, the information given is “For the truly celestially challenged, if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using illuminated arrows in the viewfinder”. So A must be the right option.\n\nTherefore, the answer for Q27 is A.',
+          explaination:
+            'if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using',
+          title: 'Rise of the Robots',
+          trueAnswer: 'The input of the architectural design process is SRS', /* cau tra loi dung */
+          type: 'multiplechoice',
+          updatedAt: '2022-12-12T16:20:08.570Z',
+          __v: 0,
+          _id: '639754b83f898fb89263c435'
+        },
+        {
+          answer: [
+            'Product Overview',
+            'Architectural Models',
+            'Architectural design rationale',
+            'All of the mentioned',
+          ],
+          content: ['What is the content of software architecture documentation?', null], /* cau hoi */
+          createdAt: '2022-12-12T16:20:08.570Z',
+          description:
+            'From the keywords The Celestron SkyScout, we use scanning skill to find it. In the paragraph 2, the information given is “For the truly celestially challenged, if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using illuminated arrows in the viewfinder”. So A must be the right option.\n\nTherefore, the answer for Q27 is A.',
+          explaination:
+            'if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using',
+          title: 'Rise of the Robots',
+          trueAnswer: 'All of the mentioned', /* cau tra loi dung */
+          type: 'multiplechoice',
+          updatedAt: '2022-12-12T16:20:08.570Z',
+          __v: 0,
+          _id: '639754b83f898fb89263c435'
+        },
+        {
+          answer: [
+            'Architecture-Driven Design',
+            'Attributes-Driven Design',
+            'Architecture-Driven Design',
+            'Attribute Driven Design',
+          ],
+          content: ['What does ADD stand for?', null], /* cau hoi */
+          createdAt: '2022-12-12T16:20:08.570Z',
+          description:
+            'From the keywords The Celestron SkyScout, we use scanning skill to find it. In the paragraph 2, the information given is “For the truly celestially challenged, if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using illuminated arrows in the viewfinder”. So A must be the right option.\n\nTherefore, the answer for Q27 is A.',
+          explaination:
+            'if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using',
+          title: 'Rise of the Robots',
+          trueAnswer: 'Attribute Driven Design', /* cau tra loi dung */
+          type: 'multiplechoice',
+          updatedAt: '2022-12-12T16:20:08.570Z',
+          __v: 0,
+          _id: '639754b83f898fb89263c435'
+        },
+        {
+          answer: [
+            '2',
+            '3',
+            '4',
+            '5',
+          ],
+          content: ['How many phases are in ATAM?', null], /* cau hoi */
+          createdAt: '2022-12-12T16:20:08.570Z',
+          description:
+            'From the keywords The Celestron SkyScout, we use scanning skill to find it. In the paragraph 2, the information given is “For the truly celestially challenged, if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using illuminated arrows in the viewfinder”. So A must be the right option.\n\nTherefore, the answer for Q27 is A.',
+          explaination:
+            'if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using',
+          title: 'Rise of the Robots',
+          trueAnswer: '4', /* cau tra loi dung */
+          type: 'multiplechoice',
+          updatedAt: '2022-12-12T16:20:08.570Z',
+          __v: 0,
+          _id: '639754b83f898fb89263c435'
+        },
+        {
+          answer: [
+            'Maintainability &amp;amp; Reusability',
+            'Maintainability',
+            'Reusability',
+            'Performance',
+          ],
+          content: ['Which quality attributes come under development attributes?', null], /* cau hoi */
+          createdAt: '2022-12-12T16:20:08.570Z',
+          description:
+            'From the keywords The Celestron SkyScout, we use scanning skill to find it. In the paragraph 2, the information given is “For the truly celestially challenged, if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using illuminated arrows in the viewfinder”. So A must be the right option.\n\nTherefore, the answer for Q27 is A.',
+          explaination:
+            'if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using',
+          title: 'Rise of the Robots',
+          trueAnswer: 'Maintainability &amp;amp; Reusability', /* cau tra loi dung */
+          type: 'multiplechoice',
+          updatedAt: '2022-12-12T16:20:08.570Z',
+          __v: 0,
+          _id: '639754b83f898fb89263c435'
+        },
+        {
+          answer: [
+            'Communication among stakeholders',
+            'Early Design decisions',
+            'Defining a solution to meet requirements',
+            'Enabling and inhibiting quality attributes',
+            'All of the mentioned',
+          ],
+          content: ['Why is Software architecture so important?', null], /* cau hoi */
+          createdAt: '2022-12-12T16:20:08.570Z',
+          description:
+            'From the keywords The Celestron SkyScout, we use scanning skill to find it. In the paragraph 2, the information given is “For the truly celestially challenged, if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using illuminated arrows in the viewfinder”. So A must be the right option.\n\nTherefore, the answer for Q27 is A.',
+          explaination:
+            'if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using',
+          title: 'Rise of the Robots',
+          trueAnswer: 'All of the mentioned', /* cau tra loi dung */
+          type: 'multiplechoice',
+          updatedAt: '2022-12-12T16:20:08.570Z',
+          __v: 0,
+          _id: '639754b83f898fb89263c435'
+        },
+        {
+          answer: [
+            'A functional requirement is also called behavioral requirement',
+            'A functional requirement is a statement of how a software  product must map program inputs to program outputs',
+            'A functional requirement includes development and operational  requirements',
+            'None of the mentioned',
+          ],
+          content: ['Which is true about functional requirements?', null], /* cau hoi */
+          createdAt: '2022-12-12T16:20:08.570Z',
+          description:
+            'From the keywords The Celestron SkyScout, we use scanning skill to find it. In the paragraph 2, the information given is “For the truly celestially challenged, if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using illuminated arrows in the viewfinder”. So A must be the right option.\n\nTherefore, the answer for Q27 is A.',
+          explaination:
+            'if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using',
+          title: 'Rise of the Robots',
+          trueAnswer: 'A functional requirement is a statement of how a software  product must map program inputs to program outputs', /* cau tra loi dung */
+          type: 'multiplechoice',
+          updatedAt: '2022-12-12T16:20:08.570Z',
+          __v: 0,
+          _id: '639754b83f898fb89263c435'
+        },
+        {
+          answer: [
+            'The stakeholder\'s needs are part of the design problem',
+            'The stakeholder\'s needs are part of the design solution',
+            'Stakeholder\'s needs are not a part of the design solution',
+            'None of the above ',
+          ],
+          content: ['Which of the following statement is true?', null], /* cau hoi */
+          createdAt: '2022-12-12T16:20:08.570Z',
+          description:
+            'From the keywords The Celestron SkyScout, we use scanning skill to find it. In the paragraph 2, the information given is “For the truly celestially challenged, if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using illuminated arrows in the viewfinder”. So A must be the right option.\n\nTherefore, the answer for Q27 is A.',
+          explaination:
+            'if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using',
+          title: 'Rise of the Robots',
+          trueAnswer: 'The stakeholder\'s needs are part of the design problem', /* cau tra loi dung */
+          type: 'multiplechoice',
+          updatedAt: '2022-12-12T16:20:08.570Z',
+          __v: 0,
+          _id: '639754b83f898fb89263c435'
+        },
+        {
+          answer: [
+            'Interviews ',
+            'Observation ',
+            'Focus Groups',
+            'All of the above',
+          ],
+          content: ['Elicitation techniques include ____________', null], /* cau hoi */
+          createdAt: '2022-12-12T16:20:08.570Z',
+          description:
+            'From the keywords The Celestron SkyScout, we use scanning skill to find it. In the paragraph 2, the information given is “For the truly celestially challenged, if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using illuminated arrows in the viewfinder”. So A must be the right option.\n\nTherefore, the answer for Q27 is A.',
+          explaination:
+            'if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using',
+          title: 'Rise of the Robots',
+          trueAnswer: 'All of the above', /* cau tra loi dung */
+          type: 'multiplechoice',
+          updatedAt: '2022-12-12T16:20:08.570Z',
+          __v: 0,
+          _id: '639754b83f898fb89263c435'
+        },
+        {
+          answer: [
+            'How many elements a system has',
+            'The design of individual elements ',
+            'Commonalities between system elements',
+            'Relationships between system elements ',
+          ],
+          content: ['Which of the following cannot be inferred from the description of a  software architecture\'s elements?', null], /* cau hoi */
+          createdAt: '2022-12-12T16:20:08.570Z',
+          description:
+            'From the keywords The Celestron SkyScout, we use scanning skill to find it. In the paragraph 2, the information given is “For the truly celestially challenged, if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using illuminated arrows in the viewfinder”. So A must be the right option.\n\nTherefore, the answer for Q27 is A.',
+          explaination:
+            'if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using',
+          title: 'Rise of the Robots',
+          trueAnswer: 'The design of individual elements ', /* cau tra loi dung */
+          type: 'multiplechoice',
+          updatedAt: '2022-12-12T16:20:08.570Z',
+          __v: 0,
+          _id: '639754b83f898fb89263c435'
+        },
+        {
+          answer: [
+            'They are often selected to promote various quality attribute properties.',
+            'They are well-known solutions to recurring design problems. ',
+            'They are industry-defined standards for software design.',
+            'They are often selected in the early stages of architectural design.',
+          ],
+          content: ['Which of the following is not true of architectural patterns?', null], /* cau hoi */
+          createdAt: '2022-12-12T16:20:08.570Z',
+          description:
+            'From the keywords The Celestron SkyScout, we use scanning skill to find it. In the paragraph 2, the information given is “For the truly celestially challenged, if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using illuminated arrows in the viewfinder”. So A must be the right option.\n\nTherefore, the answer for Q27 is A.',
+          explaination:
+            'if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using',
+          title: 'Rise of the Robots',
+          trueAnswer: 'They are industry-defined standards for software design.', /* cau tra loi dung */
+          type: 'multiplechoice',
+          updatedAt: '2022-12-12T16:20:08.570Z',
+          __v: 0,
+          _id: '639754b83f898fb89263c435'
+        },
+        {
+          answer: [
+            'improve stakeholder communication.',
+            'help predict specific qualities in an architecture.',
+            'enable reuse of legacy systems.',
+            'help build multiple products in a product line.',
+          ],
+          content: ['The purpose of identifying patterns in a software architecture is to...', null], /* cau hoi */
+          createdAt: '2022-12-12T16:20:08.570Z',
+          description:
+            'From the keywords The Celestron SkyScout, we use scanning skill to find it. In the paragraph 2, the information given is “For the truly celestially challenged, if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using illuminated arrows in the viewfinder”. So A must be the right option.\n\nTherefore, the answer for Q27 is A.',
+          explaination:
+            'if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using',
+          title: 'Rise of the Robots',
+          trueAnswer: 'help predict specific qualities in an architecture.', /* cau tra loi dung */
+          type: 'multiplechoice',
+          updatedAt: '2022-12-12T16:20:08.570Z',
+          __v: 0,
+          _id: '639754b83f898fb89263c435'
+        },
+        {
+          answer: [
+            'an opinion regarding software architecture.',
+            'a representation of a structure found in a software system.',
+            'a collection of UML diagrams.',
+            'a list of elements in a software system.',
+          ],
+          content: ['A software architecture view is...', null], /* cau hoi */
+          createdAt: '2022-12-12T16:20:08.570Z',
+          description:
+            'From the keywords The Celestron SkyScout, we use scanning skill to find it. In the paragraph 2, the information given is “For the truly celestially challenged, if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using illuminated arrows in the viewfinder”. So A must be the right option.\n\nTherefore, the answer for Q27 is A.',
+          explaination:
+            'if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using',
+          title: 'Rise of the Robots',
+          trueAnswer: 'a representation of a structure found in a software system.', /* cau tra loi dung */
+          type: 'multiplechoice',
+          updatedAt: '2022-12-12T16:20:08.570Z',
+          __v: 0,
+          _id: '639754b83f898fb89263c435'
+        },
+        {
+          answer: [
+            'Allocation views',
+            'Module views',
+            'Component-and-connector views',
+            'User action/feedback views',
+          ],
+          content: ['Which type of architectural view shows sets of code units?', null], /* cau hoi */
+          createdAt: '2022-12-12T16:20:08.570Z',
+          description:
+            'From the keywords The Celestron SkyScout, we use scanning skill to find it. In the paragraph 2, the information given is “For the truly celestially challenged, if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using illuminated arrows in the viewfinder”. So A must be the right option.\n\nTherefore, the answer for Q27 is A.',
+          explaination:
+            'if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using',
+          title: 'Rise of the Robots',
+          trueAnswer: 'Module views', /* cau tra loi dung */
+          type: 'multiplechoice',
+          updatedAt: '2022-12-12T16:20:08.570Z',
+          __v: 0,
+          _id: '639754b83f898fb89263c435'
+        },
+        {
+          answer: [
+            'Allocation views',
+            'Module views',
+            'Component-and-connector views',
+            'User action/feedback views',
+          ],
+          content: ['Which type of architectural view shows how software and non-software elements are related within a system?', null], /* cau hoi */
+          createdAt: '2022-12-12T16:20:08.570Z',
+          description:
+            'From the keywords The Celestron SkyScout, we use scanning skill to find it. In the paragraph 2, the information given is “For the truly celestially challenged, if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using illuminated arrows in the viewfinder”. So A must be the right option.\n\nTherefore, the answer for Q27 is A.',
+          explaination:
+            'if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using',
+          title: 'Rise of the Robots',
+          trueAnswer: 'Allocation views', /* cau tra loi dung */
+          type: 'multiplechoice',
+          updatedAt: '2022-12-12T16:20:08.570Z',
+          __v: 0,
+          _id: '639754b83f898fb89263c435'
+        },
+        {
+          answer: [
+            'what life-cycle model will be followed during the course of development.',
+            'what notation and process will be used for creating and verifying the correctness of views.',
+            'what tools are available for view creation, dissemination, and maintenance.',
+            'which views will best serve stakeholder needs.',
+          ],
+          content: ['One of the most important factors to consider when deciding which views to develop for an architecture is...', null], /* cau hoi */
+          createdAt: '2022-12-12T16:20:08.570Z',
+          description:
+            'From the keywords The Celestron SkyScout, we use scanning skill to find it. In the paragraph 2, the information given is “For the truly celestially challenged, if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using illuminated arrows in the viewfinder”. So A must be the right option.\n\nTherefore, the answer for Q27 is A.',
+          explaination:
+            'if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using',
+          title: 'Rise of the Robots',
+          trueAnswer: 'which views will best serve stakeholder needs.', /* cau tra loi dung */
+          type: 'multiplechoice',
+          updatedAt: '2022-12-12T16:20:08.570Z',
+          __v: 0,
+          _id: '639754b83f898fb89263c435'
+        },
+        {
+          answer: [
+            'minimizing interactions between architecturally significant elements.',
+            'recursive decomposition of functional partitions to maximize architectural cohesion.',
+            'applying architectural patterns and tactics to satisfy quality attribute requirements.',
+            'compartmentalizing functions and behaviors to maximize architectural coherence',
+          ],
+          content: ['Attribute-Driven Design (ADD) is an approach to defining software architecture where decomposition is based on...', null], /* cau hoi */
+          createdAt: '2022-12-12T16:20:08.570Z',
+          description:
+            'From the keywords The Celestron SkyScout, we use scanning skill to find it. In the paragraph 2, the information given is “For the truly celestially challenged, if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using illuminated arrows in the viewfinder”. So A must be the right option.\n\nTherefore, the answer for Q27 is A.',
+          explaination:
+            'if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using',
+          title: 'Rise of the Robots',
+          trueAnswer: 'applying architectural patterns and tactics to satisfy quality attribute requirements.', /* cau tra loi dung */
+          type: 'multiplechoice',
+          updatedAt: '2022-12-12T16:20:08.570Z',
+          __v: 0,
+          _id: '639754b83f898fb89263c435'
+        },
+        {
+          answer: [
+            'Quality attribute requirements',
+            'Module decomposition requirements',
+            'Functional requirements',
+            'Design constraints',
+          ],
+          content: ['Which of the following is not an input of the ADD method?', null], /* cau hoi */
+          createdAt: '2022-12-12T16:20:08.570Z',
+          description:
+            'From the keywords The Celestron SkyScout, we use scanning skill to find it. In the paragraph 2, the information given is “For the truly celestially challenged, if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using illuminated arrows in the viewfinder”. So A must be the right option.\n\nTherefore, the answer for Q27 is A.',
+          explaination:
+            'if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using',
+          title: 'Rise of the Robots',
+          trueAnswer: 'Module decomposition requirements', /* cau tra loi dung */
+          type: 'multiplechoice',
+          updatedAt: '2022-12-12T16:20:08.570Z',
+          __v: 0,
+          _id: '639754b83f898fb89263c435'
+        },
+        {
+          answer: [
+            'the architect answers a prepared list of questions.',
+            'detailed sets of yes/no questions focus on particular qualities.',
+            'the quality of the design process is measured.',
+            'specific interactions between a system and stakeholder are described.',
+          ],
+          content: ['In scenario-based evaluation techniques...', null], /* cau hoi */
+          createdAt: '2022-12-12T16:20:08.570Z',
+          description:
+            'From the keywords The Celestron SkyScout, we use scanning skill to find it. In the paragraph 2, the information given is “For the truly celestially challenged, if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using illuminated arrows in the viewfinder”. So A must be the right option.\n\nTherefore, the answer for Q27 is A.',
+          explaination:
+            'if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using',
+          title: 'Rise of the Robots',
+          trueAnswer: 'specific interactions between a system and stakeholder are described.', /* cau tra loi dung */
+          type: 'multiplechoice',
+          updatedAt: '2022-12-12T16:20:08.570Z',
+          __v: 0,
+          _id: '639754b83f898fb89263c435'
+        },
+        
+      ],
+      title: 'Trắc nghiệm architech 2',
+      updatedAt: '2022-12-12T16:36:40.770Z',
+      video: 'undefined',
+      __v: 0,
+      _id: '639758983f898fb89263c463',
+      type: 'word'
+    },
   ],
   currentPage: 1,
   totalPage: 1
