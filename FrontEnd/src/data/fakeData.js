@@ -1664,6 +1664,512 @@ export const fakePracticeData = {
       _id: '639758983f898fb89263c463',
       type: 'word'
     },
+    {
+      category: {
+        createdAt: '2022-09-27T06:59:04.376Z',
+        name: 'Reading',
+        updatedAt: '2022-09-27T06:59:04.376Z',
+        __v: 0,
+        _id: '63329f38623618c13355482f'
+      },
+      content: ['Trắc nghiệm SPQM 1'],
+      createdAt: '2022-12-12T16:36:40.770Z',
+      description: 'Trắc nghiệm SPQM 1',
+      image: {
+        name: 'http://localhost:3000/1670863000705-T2S3_0.png'
+      },
+      questions: [
+        {
+          answer: [
+            'Microsoft',
+            'Nokia',
+            'IBM',
+            'Motorola',
+          ],
+          content: ['Which company is credited to propose “SIX SIGMA” model?', null],
+          createdAt: '2022-12-12T16:20:08.570Z',
+          description:
+            'From the keywords The Celestron SkyScout, we use scanning skill to find it. In the paragraph 2, the information given is “For the truly celestially challenged, if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using illuminated arrows in the viewfinder”. So A must be the right option.\n\nTherefore, the answer for Q27 is A.',
+          explaination:
+            'if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using',
+          title: 'Rise of the Robots',
+          trueAnswer:
+            'Motorola',
+          type: 'multiplechoice',
+          updatedAt: '2022-12-12T16:20:08.570Z',
+          __v: 0,
+          _id: '639754b83f898fb89263c435'
+        },
+        {
+          answer: [
+            'Goal-Question-Indicator-Metric',
+            'Implement-Measure-Assess-Change',
+            'Plan-Do-Check-Act',
+            'Identify-Collect Data-Action-Control 9000',
+          ],
+          content: ['Which the following are the 4 steps of Deming’s Quality Improvement Cycle?', null],
+          createdAt: '2022-12-12T16:20:08.570Z',
+          description:
+            'From the keywords The Celestron SkyScout, we use scanning skill to find it. In the paragraph 2, the information given is “For the truly celestially challenged, if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using illuminated arrows in the viewfinder”. So A must be the right option.\n\nTherefore, the answer for Q27 is A.',
+          explaination:
+            'if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using',
+          title: 'Rise of the Robots',
+          trueAnswer:
+            'Plan-Do-Check-Act',
+          type: 'multiplechoice',
+          updatedAt: '2022-12-12T16:20:08.570Z',
+          __v: 0,
+          _id: '639754b83f898fb89263c435'
+        },
+        {
+          answer: [
+            'Define',
+            'Measure',
+            'Control',
+            'Analyze',
+          ],
+          content: ['Which of the following is not a core step of Six Sigma?', null],
+          createdAt: '2022-12-12T16:20:08.570Z',
+          description:
+            'From the keywords The Celestron SkyScout, we use scanning skill to find it. In the paragraph 2, the information given is “For the truly celestially challenged, if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using illuminated arrows in the viewfinder”. So A must be the right option.\n\nTherefore, the answer for Q27 is A.',
+          explaination:
+            'if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using',
+          title: 'Rise of the Robots',
+          trueAnswer:
+            'Control',
+          type: 'multiplechoice',
+          updatedAt: '2022-12-12T16:20:08.570Z',
+          __v: 0,
+          _id: '639754b83f898fb89263c435'
+        },
+        {
+          answer: [
+            'Data flow',
+            'Workflow',
+            'Circular',
+            'Audit',
+          ],
+          content: ['The process mapping is a … diagram.', null],
+          createdAt: '2022-12-12T16:20:08.570Z',
+          description:
+            'From the keywords The Celestron SkyScout, we use scanning skill to find it. In the paragraph 2, the information given is “For the truly celestially challenged, if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using illuminated arrows in the viewfinder”. So A must be the right option.\n\nTherefore, the answer for Q27 is A.',
+          explaination:
+            'if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using',
+          title: 'Rise of the Robots',
+          trueAnswer:
+            'Workflow',
+          type: 'multiplechoice',
+          updatedAt: '2022-12-12T16:20:08.570Z',
+          __v: 0,
+          _id: '639754b83f898fb89263c435'
+        },
+        {
+          answer: [
+            'Planning and Organization',
+            'Monitoring and Evaluation',
+            'Acquisition and Implementation',
+            'Delivery and Support',
+          ],
+          content: ['Which is the Domain of COBIT is concerned with “Actual delivery of required services, which range from traditional operational over security and continuity aspects to training”?', null],
+          createdAt: '2022-12-12T16:20:08.570Z',
+          description:
+            'From the keywords The Celestron SkyScout, we use scanning skill to find it. In the paragraph 2, the information given is “For the truly celestially challenged, if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using illuminated arrows in the viewfinder”. So A must be the right option.\n\nTherefore, the answer for Q27 is A.',
+          explaination:
+            'if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using',
+          title: 'Rise of the Robots',
+          trueAnswer:
+            'Delivery and Support',
+          type: 'multiplechoice',
+          updatedAt: '2022-12-12T16:20:08.570Z',
+          __v: 0,
+          _id: '639754b83f898fb89263c435'
+        },
+        {
+          answer: [
+            'Initial – Repeatable – Defined – Managed Optimizing',
+            'Initial – Planned – Defined - Quantitatively Managed – Optimizing',
+            'Initial – Managed – Defined - Planned – Optimizing',
+            'Initial – Managed – Defined - Quality Managed – Optimizing',
+          ],
+          content: ['Which of followings are 5 level of CMMI model?', null],
+          createdAt: '2022-12-12T16:20:08.570Z',
+          description:
+            'From the keywords The Celestron SkyScout, we use scanning skill to find it. In the paragraph 2, the information given is “For the truly celestially challenged, if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using illuminated arrows in the viewfinder”. So A must be the right option.\n\nTherefore, the answer for Q27 is A.',
+          explaination:
+            'if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using',
+          title: 'Rise of the Robots',
+          trueAnswer:
+            'Initial – Managed – Defined - Quality Managed – Optimizing',
+          type: 'multiplechoice',
+          updatedAt: '2022-12-12T16:20:08.570Z',
+          __v: 0,
+          _id: '639754b83f898fb89263c435'
+        },
+        {
+          answer: [
+            'ISO 9000',
+            'ISO 9001',
+            'ISO 9002',
+            'ISO 9003',
+          ],
+          content: ['The ISO quality assurance standard that applies to software engineering is what?', null],
+          createdAt: '2022-12-12T16:20:08.570Z',
+          description:
+            'From the keywords The Celestron SkyScout, we use scanning skill to find it. In the paragraph 2, the information given is “For the truly celestially challenged, if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using illuminated arrows in the viewfinder”. So A must be the right option.\n\nTherefore, the answer for Q27 is A.',
+          explaination:
+            'if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using',
+          title: 'Rise of the Robots',
+          trueAnswer:
+            'ISO 9001',
+          type: 'multiplechoice',
+          updatedAt: '2022-12-12T16:20:08.570Z',
+          __v: 0,
+          _id: '639754b83f898fb89263c435'
+        },
+        {
+          answer: [
+            'Helpline support',
+            'Warranty work.',
+            'Testing',
+            'Complaint resolution',
+          ],
+          content: ['Select which one is not an External failure costs?', null],
+          createdAt: '2022-12-12T16:20:08.570Z',
+          description:
+            'From the keywords The Celestron SkyScout, we use scanning skill to find it. In the paragraph 2, the information given is “For the truly celestially challenged, if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using illuminated arrows in the viewfinder”. So A must be the right option.\n\nTherefore, the answer for Q27 is A.',
+          explaination:
+            'if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using',
+          title: 'Rise of the Robots',
+          trueAnswer:
+            'Testing',
+          type: 'multiplechoice',
+          updatedAt: '2022-12-12T16:20:08.570Z',
+          __v: 0,
+          _id: '639754b83f898fb89263c435'
+        },
+        {
+          answer: [
+            'Confusion',
+            'Slow change',
+            'Anxiety',
+            'Frustrate',
+          ],
+          content: ['There are 5 elements needed to change a process: Vision-Skills-Incentives- Resources-Action. What will happen if we are missing “Incentives”?', null],
+          createdAt: '2022-12-12T16:20:08.570Z',
+          description:
+            'From the keywords The Celestron SkyScout, we use scanning skill to find it. In the paragraph 2, the information given is “For the truly celestially challenged, if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using illuminated arrows in the viewfinder”. So A must be the right option.\n\nTherefore, the answer for Q27 is A.',
+          explaination:
+            'if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using',
+          title: 'Rise of the Robots',
+          trueAnswer:
+            'Slow change',
+          type: 'multiplechoice',
+          updatedAt: '2022-12-12T16:20:08.570Z',
+          __v: 0,
+          _id: '639754b83f898fb89263c435'
+        },
+        {
+          answer: [
+            'Anxiety',
+            'Slow change',
+            'Frustrate',
+            'Failure',
+          ],
+          content: ['There are 5 elements needed to change a process: Vision-Skills-Incentives- Resources-Action. What will happen if we are missing “Resources”?', null],
+          createdAt: '2022-12-12T16:20:08.570Z',
+          description:
+            'From the keywords The Celestron SkyScout, we use scanning skill to find it. In the paragraph 2, the information given is “For the truly celestially challenged, if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using illuminated arrows in the viewfinder”. So A must be the right option.\n\nTherefore, the answer for Q27 is A.',
+          explaination:
+            'if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using',
+          title: 'Rise of the Robots',
+          trueAnswer:
+            'Frustrate',
+          type: 'multiplechoice',
+          updatedAt: '2022-12-12T16:20:08.570Z',
+          __v: 0,
+          _id: '639754b83f898fb89263c435'
+        },
+        {
+          answer: [
+            'Failure',
+            'Confusion',
+            'Frustrate',
+            'Failure',
+          ],
+          content: ['There are 5 elements needed to change a process: Vision-Skills-Incentives- Resources-Action. What will happen if we are missing “Action”?', null],
+          createdAt: '2022-12-12T16:20:08.570Z',
+          description:
+            'From the keywords The Celestron SkyScout, we use scanning skill to find it. In the paragraph 2, the information given is “For the truly celestially challenged, if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using illuminated arrows in the viewfinder”. So A must be the right option.\n\nTherefore, the answer for Q27 is A.',
+          explaination:
+            'if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using',
+          title: 'Rise of the Robots',
+          trueAnswer:
+            'Confusion',
+          type: 'multiplechoice',
+          updatedAt: '2022-12-12T16:20:08.570Z',
+          __v: 0,
+          _id: '639754b83f898fb89263c435'
+        },
+        {
+          answer: [
+            'Decide what we want to do',
+            'Verify that the actions created the results planne',
+            'Do what is needed to make the plan successful.',
+            'Make the change happen, take some actions.',
+          ],
+          content: ['According to the PDCA model, what we will do in step “Check”?', null],
+          createdAt: '2022-12-12T16:20:08.570Z',
+          description:
+            'From the keywords The Celestron SkyScout, we use scanning skill to find it. In the paragraph 2, the information given is “For the truly celestially challenged, if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using illuminated arrows in the viewfinder”. So A must be the right option.\n\nTherefore, the answer for Q27 is A.',
+          explaination:
+            'if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using',
+          title: 'Rise of the Robots',
+          trueAnswer:
+            'Verify that the actions created the results planne',
+          type: 'multiplechoice',
+          updatedAt: '2022-12-12T16:20:08.570Z',
+          __v: 0,
+          _id: '639754b83f898fb89263c435'
+        },
+        {
+          answer: [
+            'Appraisal costs exclude inspecting materials delivered from suppliers, materials that are a work-in-process.',
+            'Appraisal costs are a specific category of quality control costs',
+            'Companies pay appraisal costs as part of the quality control process to ensure that their products and services meet customer expectations and regulatory requirements',
+            'Appraisal costs could include expenses for field tests and inspections.',
+          ],
+          content: ['Which is INCORRECT about Appraisal Cost?', null],
+          createdAt: '2022-12-12T16:20:08.570Z',
+          description:
+            'From the keywords The Celestron SkyScout, we use scanning skill to find it. In the paragraph 2, the information given is “For the truly celestially challenged, if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using illuminated arrows in the viewfinder”. So A must be the right option.\n\nTherefore, the answer for Q27 is A.',
+          explaination:
+            'if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using',
+          title: 'Rise of the Robots',
+          trueAnswer:
+            'Appraisal costs could include expenses for field tests and inspections.',
+          type: 'multiplechoice',
+          updatedAt: '2022-12-12T16:20:08.570Z',
+          __v: 0,
+          _id: '639754b83f898fb89263c435'
+        },
+        {
+          answer: [
+            'Failure cost',
+            'Error cost',
+            'Appraisal cost',
+            'Prevention cost',
+          ],
+          content: ['The cost of quality includes all costs incurred in the search of quality related activities. Which is not the type of cost of quality?', null],
+          createdAt: '2022-12-12T16:20:08.570Z',
+          description:
+            'From the keywords The Celestron SkyScout, we use scanning skill to find it. In the paragraph 2, the information given is “For the truly celestially challenged, if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using illuminated arrows in the viewfinder”. So A must be the right option.\n\nTherefore, the answer for Q27 is A.',
+          explaination:
+            'if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using',
+          title: 'Rise of the Robots',
+          trueAnswer:
+            'Error cost',
+          type: 'multiplechoice',
+          updatedAt: '2022-12-12T16:20:08.570Z',
+          __v: 0,
+          _id: '639754b83f898fb89263c435'
+        },
+        {
+          answer: [
+            'Management commitment',
+            'Management review',
+            'Activity policy',
+            'Quality policy',
+          ],
+          content: ['What is NOT belong to the management responsibilities regarding ISO 9001 requirements?', null],
+          createdAt: '2022-12-12T16:20:08.570Z',
+          description:
+            'From the keywords The Celestron SkyScout, we use scanning skill to find it. In the paragraph 2, the information given is “For the truly celestially challenged, if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using illuminated arrows in the viewfinder”. So A must be the right option.\n\nTherefore, the answer for Q27 is A.',
+          explaination:
+            'if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using',
+          title: 'Rise of the Robots',
+          trueAnswer:
+            'Activity policy',
+          type: 'multiplechoice',
+          updatedAt: '2022-12-12T16:20:08.570Z',
+          __v: 0,
+          _id: '639754b83f898fb89263c435'
+        },
+        {
+          answer: [
+            'SP is a defined of steps for producing a software-based product',
+            'SP is a structure-imposed development of a software product',
+            'SP is a set of steps by which we generate a software product or service.',
+            'SP is a set of activities to produce software product but not including associated results',
+          ],
+          content: ['Which is INCORRECT about Software Process (SP)? ', null],
+          createdAt: '2022-12-12T16:20:08.570Z',
+          description:
+            'From the keywords The Celestron SkyScout, we use scanning skill to find it. In the paragraph 2, the information given is “For the truly celestially challenged, if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using illuminated arrows in the viewfinder”. So A must be the right option.\n\nTherefore, the answer for Q27 is A.',
+          explaination:
+            'if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using',
+          title: 'Rise of the Robots',
+          trueAnswer:
+            'SP is a set of steps by which we generate a software product or service.',
+          type: 'multiplechoice',
+          updatedAt: '2022-12-12T16:20:08.570Z',
+          __v: 0,
+          _id: '639754b83f898fb89263c435'
+        },
+        {
+          answer: [
+            'Five',
+            'Three',
+            'Three',
+            'Four',
+          ],
+          content: ['How many levels are there in CMMI Model?', null],
+          createdAt: '2022-12-12T16:20:08.570Z',
+          description:
+            'From the keywords The Celestron SkyScout, we use scanning skill to find it. In the paragraph 2, the information given is “For the truly celestially challenged, if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using illuminated arrows in the viewfinder”. So A must be the right option.\n\nTherefore, the answer for Q27 is A.',
+          explaination:
+            'if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using',
+          title: 'Rise of the Robots',
+          trueAnswer:
+            'Five',
+          type: 'multiplechoice',
+          updatedAt: '2022-12-12T16:20:08.570Z',
+          __v: 0,
+          _id: '639754b83f898fb89263c435'
+        },
+        {
+          answer: [
+            'IBM',
+            'Nokia',
+            'Apple',
+            'Oracle',
+          ],
+          content: ['Which of the following company proposed ETVX model?', null],
+          createdAt: '2022-12-12T16:20:08.570Z',
+          description:
+            'From the keywords The Celestron SkyScout, we use scanning skill to find it. In the paragraph 2, the information given is “For the truly celestially challenged, if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using illuminated arrows in the viewfinder”. So A must be the right option.\n\nTherefore, the answer for Q27 is A.',
+          explaination:
+            'if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using',
+          title: 'Rise of the Robots',
+          trueAnswer:
+            'IBM',
+          type: 'multiplechoice',
+          updatedAt: '2022-12-12T16:20:08.570Z',
+          __v: 0,
+          _id: '639754b83f898fb89263c435'
+        },
+        {
+          answer: [
+            'Management',
+            'Technical',
+            'Operational',
+            'Strategic',
+          ],
+          content: ['What types of decisions are intended to provide a set of process indicators that lead to long-term software process improvement?', null],
+          createdAt: '2022-12-12T16:20:08.570Z',
+          description:
+            'From the keywords The Celestron SkyScout, we use scanning skill to find it. In the paragraph 2, the information given is “For the truly celestially challenged, if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using illuminated arrows in the viewfinder”. So A must be the right option.\n\nTherefore, the answer for Q27 is A.',
+          explaination:
+            'if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using',
+          title: 'Rise of the Robots',
+          trueAnswer:
+            'Operational',
+          type: 'multiplechoice',
+          updatedAt: '2022-12-12T16:20:08.570Z',
+          __v: 0,
+          _id: '639754b83f898fb89263c435'
+        },
+        {
+          answer: [
+            'ISO 9000',
+            'ISO 9004',
+            'ISO 9001',
+            'ISO 8000',
+          ],
+          content: ['Which of the following ISO standard gives the requirements for what the organization must do to manage processes affecting quality of its products and services?', null],
+          createdAt: '2022-12-12T16:20:08.570Z',
+          description:
+            'From the keywords The Celestron SkyScout, we use scanning skill to find it. In the paragraph 2, the information given is “For the truly celestially challenged, if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using illuminated arrows in the viewfinder”. So A must be the right option.\n\nTherefore, the answer for Q27 is A.',
+          explaination:
+            'if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using',
+          title: 'Rise of the Robots',
+          trueAnswer:
+            'ISO 9001',
+          type: 'multiplechoice',
+          updatedAt: '2022-12-12T16:20:08.570Z',
+          __v: 0,
+          _id: '639754b83f898fb89263c435'
+        },
+        {
+          answer: [
+            'Process Analysis',
+            'Process Measurement',
+            'Process Modelling',
+            'Process Improvement',
+          ],
+          content: ['What is defined as “The documentation of a process which records the tasks, the roles and the entities used”?', null],
+          createdAt: '2022-12-12T16:20:08.570Z',
+          description:
+            'From the keywords The Celestron SkyScout, we use scanning skill to find it. In the paragraph 2, the information given is “For the truly celestially challenged, if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using illuminated arrows in the viewfinder”. So A must be the right option.\n\nTherefore, the answer for Q27 is A.',
+          explaination:
+            'if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using',
+          title: 'Rise of the Robots',
+          trueAnswer:
+            'Process Modelling',
+          type: 'multiplechoice',
+          updatedAt: '2022-12-12T16:20:08.570Z',
+          __v: 0,
+          _id: '639754b83f898fb89263c435'
+        },
+        {
+          answer: [
+            'Establishing',
+            'Acting',
+            'Diagnosing',
+            'Initiating',
+          ],
+          content: ['Which stage of “IDEAL Model” is concerned with “Determining where you are relative to where you want to be”?', null],
+          createdAt: '2022-12-12T16:20:08.570Z',
+          description:
+            'From the keywords The Celestron SkyScout, we use scanning skill to find it. In the paragraph 2, the information given is “For the truly celestially challenged, if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using illuminated arrows in the viewfinder”. So A must be the right option.\n\nTherefore, the answer for Q27 is A.',
+          explaination:
+            'if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using',
+          title: 'Rise of the Robots',
+          trueAnswer:
+            'Diagnosing',
+          type: 'multiplechoice',
+          updatedAt: '2022-12-12T16:20:08.570Z',
+          __v: 0,
+          _id: '639754b83f898fb89263c435'
+        },
+        {
+          answer: [
+            'Refreezing',
+            'Acting',
+          ],
+          content: ['Which of the following terminology is regarded as “Making the change permanent”?', null],
+          createdAt: '2022-12-12T16:20:08.570Z',
+          description:
+            'From the keywords The Celestron SkyScout, we use scanning skill to find it. In the paragraph 2, the information given is “For the truly celestially challenged, if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using illuminated arrows in the viewfinder”. So A must be the right option.\n\nTherefore, the answer for Q27 is A.',
+          explaination:
+            'if you want to view a star or planet but do not have a clue which bit of the heavens to look in, do not despair; the SkyScout’s "locate” feature will guide you to it using',
+          title: 'Rise of the Robots',
+          trueAnswer:
+            'Refreezing',
+          type: 'multiplechoice',
+          updatedAt: '2022-12-12T16:20:08.570Z',
+          __v: 0,
+          _id: '639754b83f898fb89263c435'
+        },
+        
+        
+      ],
+      title: 'Trắc nghiệm SPQM 1',
+      updatedAt: '2022-12-12T16:36:40.770Z',
+      video: 'undefined',
+      __v: 0,
+      _id: '639758983f898fb89263c464',
+      type: 'word'
+    },
   ],
   currentPage: 1,
   totalPage: 1
