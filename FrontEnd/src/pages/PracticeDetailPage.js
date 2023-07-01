@@ -148,8 +148,8 @@ const PracticeDetailPage = () => {
                         <>
                           {questionType === 'multiplechoice' && (
                             <h3 style={{ marginTop: '20px', fontSize: '20px' }}>
-                              Chọn đáp án đúng <span style={{ fontWeight: 800 }}>A, B, C</span>{' '}
-                              hoặc <span style={{ fontWeight: 800 }}>D.</span>
+                              Chọn đáp án đúng <span style={{ fontWeight: 800 }}>A, B, C</span> hoặc{' '}
+                              <span style={{ fontWeight: 800 }}>D.</span>
                             </h3>
                           )}
 
@@ -299,6 +299,7 @@ const PracticeDetailPage = () => {
           correctAnswer={localStage.correctAnswer}
           userAnswer={localStage.userAnswer}
           resetHandler={resetHandler}
+          questions={localStage.data.questions}
         />
       )}
     </Wrapper>
